@@ -5,4 +5,4 @@
 
 - Run space_invaders.py with all of the image, sound and font files in the same folder
 
--See pinned repositories for Tetris and Brick Breaker re-creations
+- See pinned repositories for Tetris and Brick Breaker re-creations
