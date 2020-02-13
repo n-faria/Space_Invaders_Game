@@ -3,11 +3,6 @@
 #Space Invaders
 #Re-create the space invaders game
 
-#To do
-#project description
-#project timeline
-#personal experiences report
-
 import pygame, time, random, math #Imports
 
 pygame.mixer.pre_init(44100, 16, 2, 4096) #Initialize music
